@@ -6,7 +6,7 @@ import (
 	"path"
 	"runtime"
 
-	iu "githup.com/jifengg/GoImageUtil"
+	iu "github.com/jifengg/GoImageUtil"
 )
 
 func main() {
